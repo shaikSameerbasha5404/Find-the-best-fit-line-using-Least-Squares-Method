@@ -19,8 +19,8 @@ To implement univariate Linear Regression to fit a straight line using least squ
 ## Program:
 /*
 Program to implement univariate Linear Regression to fit a straight line using least squares.
-Developed by: 
-RegisterNumber:  
+##### Developed by: Shaik Sameer Basha
+##### RegisterNumber:  212222240093
 */
 ``` python
 
